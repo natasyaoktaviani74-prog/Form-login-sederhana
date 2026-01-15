@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+}
+button{
+    background-color: rgb(13, 225, 172);
+}
+button:hover{
+    background-color: rgb(25, 231, 231);
+}
